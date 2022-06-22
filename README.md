@@ -19,7 +19,7 @@ By-pass Logic Attack and many other attacks where adversaries try to change or r
     * Once it starts, it locks the filekey.key by changing its permissions to "000", whichmakes it inaccessible to read or write.
     * If any file is changed or tampered, "The System has been Breached !!" signal alerts the officials to take further actions which makes our system foolproof.
     * In the below example, enc2.txt was tampered to make this result possible.
-        > ![breached](images/breached.jpg)
+        > ![breached](images/Breached.png)
 
 * `filekey.key` : This file right now contains encryption and decryption key, but once raid_bot starts running, this file would become unacessible.
-    > ![not_accessible](images/not_accessible.jpg)
+    > ![not_accessible](images/not_accessible.png)
