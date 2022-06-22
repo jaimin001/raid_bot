@@ -1,0 +1,2 @@
+cryptography==37.0.3
+oschmod==0.3.12
